@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.donghune.pluginmodulemaker.services
 
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
+import com.github.donghune.pluginmodulemaker.MyBundle
 
 class MyProjectService(project: Project) {
 
